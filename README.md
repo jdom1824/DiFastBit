@@ -21,18 +21,18 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 
 ## Project Timelines and Potential Milestones
 
-| DiFastBit Project Schedule                          |
-|-----------------------------------------------------|
-| Task                                                | Month 1 | Month 2 | Month 3 | Month 4 | Month 5 | Month 6 | Month 7 | Month 8 | Month 9 | Month 10 | Month 11 | Month 12 |
-|-----------------------------------------------------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:--------:|:--------:|:--------:|
-| Review Related Literature                           | X       | X       | X       | X       | X       | X       |         |         |         |          |          |          |
-| Identify Cases of Double Spending in Fast Transactions | X       | X       | X       | X       |         |         |         |         |         |          |          |          |
-| Analyze Transaction Propagation in Bitcoin Network  |         |         | X       | X       | X       | X       |         |         |         |          |          |          |
-| Model Double Spending Scenarios for Fast Bitcoin Payments |         |         |         | X       | X       | X       | X       | X       |         |          |          |          |
-| Develop the DiFastBit Layer to Mitigate Double Spending |         |         |         |         |         |         |         |         | X       | X        | X        |          |
-| Prove the Correctness of the DiFastBit Layer        |         |         |         |         |         |         | X       | X       | X       |          |          |          |
-| Develop and Validate Proof of Concept for DiFastBit |         |         |         |         |         |         | X       | X       |         |          |          |          |
-| Conduct Comparative Analysis with Existing Literature |         |         |         |         |         |         | X       | X       |         |          |          |          |
-| Compose and Revise the Project Paper                |         |         |         | X       | X       | X       | X       | X       | X       | X        | X        | X        |
+| DiFastBit Schedule |
+|---|
 
+| Task | Month 1 | Month 2 | Month 3 | Month 4 | Month 5 | Month 6 | Month 7 | Month 8 | Month 9 | Month 10 | Month 11 | Month 12 |
+| --- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Review of Related Works | X | X | X | X | X | X |  |  |  |  |  |  |
+| Identify the different cases of double spending in related work | X | X | X | X |  |  |  |  |  |  |  |  |
+| Analyze the propagation of transactions in the Bitcoin network  |  |  | X | X | X | X |  |  |  |  |  |  |
+| Model the double spending of fast Bitcoin payments |  |  |  | X | X | X | X | X | X |  |  |  |
+| Model the DiFastBit layer to avoid double spending |  |  |  |  |  |  |  |  | X | X | X |  |
+| Correctness proof of DiFastBit layer |  |  |  |  |  |  | X | X | X |  |  |  |
+| Development and proof of concept of DiFastBit |  |  |  |  |  |  | X | X |  |  |  |  |
+| Test and comparative analysis with literature |  |  |  |  |  |  | X | X |  |  |  |  |
+| Write paper |  |  |  | X | X | X | X | X | X | X | X | X |
 
