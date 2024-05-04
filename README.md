@@ -34,5 +34,5 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 | Correctness proof of DiFastBit layer |  |  |  |  |  |  | X | X | X |  |  |  |
 | Development and proof of concept of DiFastBit |  |  |  |  |  |  | X | X |  |  |  |  |
 | Test and comparative analysis with literature |  |  |  |  |  |  | X | X |  |  |  |  |
-| Write paper | X | X | X | X | X | X | X | X | X | X | X | X |
+| Write paper |  |  |  | X | X | X | X | X | X | X | X | X |
 
