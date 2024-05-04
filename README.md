@@ -25,8 +25,9 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 |---|
 
 | Task | Month 1 | Month 2 | Month 3 | Month 4 | Month 5 | Month 6 | Month 7 | Month 8 | Month 9 | Month 10 | Month 11 | Month 12 |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| --- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Review of Related Works | X | X | X | X | X | X | X | X | X | X | X | X |
+| --- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Identify the different cases of double spending in related work | X | X | X | X | X | X | X | X | X | X | X | X |
 | Analyze the propagation of transactions in the Bitcoin network  | X | X | X | X | X | X | X | X | X | X | X | X |
 | Model the double spending of fast Bitcoin payments | X | X | X | X | X | X | X | X | X | X | X | X |
