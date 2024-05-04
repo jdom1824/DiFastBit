@@ -38,7 +38,7 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 
 ## Project Budget
 | Category | Description                                           | Cost    | Time (Months) | Total       |
-|----------|-------------------------------------------------------|-----------|---------------|-------------|
+|----------|-------------------------------------------------------|-----------:|:---------------:|-------------:|
 | Personal |                                                       |           |               |             |
 |          | Senior Researcher                                     | $4,634.75 | 12            | $55,617.00  |
 |          | Junior Researcher                                     | $1,916.67 | 6             | $11,500.00  |
