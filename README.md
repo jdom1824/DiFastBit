@@ -39,15 +39,15 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 ## Project Budget
 | Category | Description                                           | Cost    | Time (Months) | Total       |
 |----------|-------------------------------------------------------|-----------|---------------|-------------|
-| PERSONAL |                                                       |           |               |             |
+| Personal |                                                       |           |               |             |
 |          | Senior Researcher                                     | $4,634.75 | 12            | $55,617.00  |
 |          | Junior Researcher                                     | $1,916.67 | 6             | $11,500.00  |
 |          | Developer                                             | $5,158.33 | 4             | $20,633.33  |
 |          | Project Manager                                       | $7,403.33 | 6             | $44,420.00  |
-| SOFTWARE/SERVICES                                               |           |               |             |
+| Software/Services                                               |           |               |             |
 |          | AWS Services                                          | $968.28   | 6             | $5,809.67   |
 |          | ChatGPT                                               | $20.00    | 12            | $240.00     |
 |          | Copilot                                               | $30.00    | 6             | $180.00     |
-| PUBLICATIONS                                                    |           |               |             |
+| Publications                                                    |           |               |             |
 |          | Paper (Blockchain: Research and Applications)         | $1,600.00 |               | $1,600.00   |
 | **Total**|                                                       |           |               | **$140,000.00** |
