@@ -27,7 +27,7 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 <table>
   <thead>
     <tr>
-      <th style="width: 300px;">Task</th> 
+      <th>Task</th>
       <th>Month 1</th>
       <th>Month 2</th>
       <th>Month 3</th>
@@ -51,12 +51,12 @@ Bitcoin is a payment system that generates a decentralized currency without the 
       <td style="text-align:center;">X</td>
       <td style="text-align:center;">X</td>
       <td style="text-align:center;">X</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
     </tr>
     <tr>
       <td>Identify the different cases of double spending in related work</td>
