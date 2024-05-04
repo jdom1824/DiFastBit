@@ -17,3 +17,10 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 4. **Potential for Broad Adoption**: If successful, DiFastBit could establish a new standard for managing fast payments in cryptocurrencies, potentially being adopted by other systems and similar technologies, thus extending its impact beyond Bitcoin.
 
 5. **Development of Theoretical and Practical Infrastructure**: The project proposes a practical solution and commits to building  a solid theoretical foundation that proves its viability. This includes a theoretical demonstration and a proof of concept, both of which are essential for validating new technologies.
+
+
+## Project Timelines and Potential Milestones
+
+| DiFastBit Schedule |
+|---|
+| Task | Month 1 | Month 2 | Month 3 | Month 4 | Month 5 | Month 6 | Month 7 | Month 8 | Month 9  | Month 10 | Month 11 | Month 11 |
