@@ -32,7 +32,22 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 | Model double spending scenarios for fast bitcoin payments |  |  |  | X | X | X | X | X | X |  |  |  |
 | Model the DiFastBit layer to avoid double spending |  |  |  |  |  |  |  |  | X | X | X |  |
 | Correctness proof of DiFastBit layer |  |  |  |  |  |  | X | X | X |  |  |  |
-| Develop and validate proof of concept for DiFastBit |  |  |  |  |  |  | X | X |  |  |  |  |
+| Develop and validate proof of concept for DiFastBit |  |  |  |  |  |  | X | X | X | X |  |  |
 | Conduct comparative analysis with existing literature |  |  |  |  |  |  | X | X |  |  |  |  |
 | Write paper |  |  |  | X | X | X | X | X | X | X | X | X |
 
+## Project Budget
+| Category | Description                                           | Salary    | Time (Months) | Total       |
+|----------|-------------------------------------------------------|-----------|---------------|-------------|
+| PERSONAL |                                                       |           |               |             |
+|          | Senior Researcher                                     | $4,634.75 | 12            | $55,617.00  |
+|          | Junior Researcher                                     | $1,916.67 | 6             | $11,500.00  |
+|          | Developer                                             | $5,158.33 | 4             | $20,633.33  |
+|          | Project Manager                                       | $7,403.33 | 6             | $44,420.00  |
+| SOFTWARE/SERVICES                                               |           |               |             |
+|          | AWS Services                                          | $968.28   | 6             | $5,809.67   |
+|          | ChatGPT                                               | $20.00    | 12            | $240.00     |
+|          | Copilot                                               | $30.00    | 6             | $180.00     |
+| PUBLICATIONS                                                    |           |               |             |
+|          | Paper (Blockchain: Research and Applications)         | $1,600.00 |               | $1,600.00   |
+| **Total**|                                                       |           |               | **$140,000.00** |
