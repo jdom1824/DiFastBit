@@ -27,7 +27,7 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 <table>
   <thead>
     <tr>
-      <th>Task</th>
+      <th style="width: 300px;">Task</th> 
       <th>Month 1</th>
       <th>Month 2</th>
       <th>Month 3</th>
