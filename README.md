@@ -36,3 +36,159 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 | Conduct Comparative Analysis with Existing Literature |  |  |  |  |  |  | X | X |  |  |  |  |
 | Write paper |  |  |  | X | X | X | X | X | X | X | X | X |
 
+<table>
+  <thead>
+    <tr>
+      <th>Task</th>
+      <th>Month 1</th>
+      <th>Month 2</th>
+      <th>Month 3</th>
+      <th>Month 4</th>
+      <th>Month 5</th>
+      <th>Month 6</th>
+      <th>Month 7</th>
+      <th>Month 8</th>
+      <th>Month 9</th>
+      <th>Month 10</th>
+      <th>Month 11</th>
+      <th>Month 12</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Review of Related Works</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Identify the different cases of double spending in related work</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Analyze the propagation of transactions in the Bitcoin network</td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Model the double spending of fast Bitcoin payments</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Model the DiFastBit layer to avoid double spending</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Correctness proof of DiFastBit layer</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Development and proof of concept of DiFastBit</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Test and comparative analysis with literature</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Write paper</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+      <td style="text-align:center;">X</td>
+    </tr>
+  </tbody>
+</table>
