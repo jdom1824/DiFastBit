@@ -24,18 +24,6 @@ Bitcoin is a payment system that generates a decentralized currency without the 
 | DiFastBit Schedule |
 |---|
 
-| Task | Month 1 | Month 2 | Month 3 | Month 4 | Month 5 | Month 6 | Month 7 | Month 8 | Month 9 | Month 10 | Month 11 | Month 12 |
-| --- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Review Related Works | X | X | X | X | X | X |  |  |  |  |  |  |
-| Identify Cases of Double Spending in Fast Transactions | X | X | X | X |  |  |  |  |  |  |  |  |
-| Analyze Transaction Propagation in Bitcoin Network  |  |  | X | X | X | X |  |  |  |  |  |  |
-| Model Double Spending Scenarios for Fast Bitcoin Payments |  |  |  | X | X | X | X | X | X |  |  |  |
-| Develop the DiFastBit Layer to Mitigate Double Spending |  |  |  |  |  |  |  |  | X | X | X |  |
-| Prove the Correctness of the DiFastBit Layer |  |  |  |  |  |  | X | X | X |  |  |  |
-| Develop and Validate Proof of Concept for DiFastBit |  |  |  |  |  |  | X | X |  |  |  |  |
-| Conduct Comparative Analysis with Existing Literature |  |  |  |  |  |  | X | X |  |  |  |  |
-| Write paper |  |  |  | X | X | X | X | X | X | X | X | X |
-
 <table>
   <thead>
     <tr>
